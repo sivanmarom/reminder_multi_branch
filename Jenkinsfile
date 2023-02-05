@@ -4,6 +4,7 @@ pipeline {
 		stage("RUN code"){
 			steps{
 				echo "the branch: mybranch"
+echo "hello"
 			}			
 		}
 	}	
